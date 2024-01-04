@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "mingtest5/TestFolder/test1.md",
+      "redirect_url": "/archive/test/TestFolder/test1",
+      "redirect_document_id": false
+    }
+  ]
+}
