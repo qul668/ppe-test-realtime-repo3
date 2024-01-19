@@ -1,0 +1,14 @@
+{
+  "redirections": [
+    {
+      "source_path": "mingtest4/TestFolder/testfile1.md",
+      "redirect_url": "/archive/test/TestFolder/testfile1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "mingtest4/breadcrumb/testfile.md",
+      "redirect_url": "/archive/test/breadcrumb/testfile",
+      "redirect_document_id": false
+    }
+  ]
+}
